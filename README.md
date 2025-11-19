@@ -18,7 +18,7 @@ This notebook devoted to the deep analysis of different hyperparameters, to find
 
 ## QASystem_Ru
 
-This jupyter notebook is connected to creating simple rusian [RAG](https://habr.com/ru/articles/779526/) QA-system.
+This jupyter notebook is connected to creating simple rusian [RAG](https://habr.com/ru/articles/779526/) QA system.
 
 ## VisualLLMEvaluation
 
